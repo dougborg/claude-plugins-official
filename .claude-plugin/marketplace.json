@@ -1,10 +1,10 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-plugins-official-fork",
-  "description": "Fork of claude-plugins-official carrying dougborg's in-flight pyright-lsp workspaceFolder fix (PR https://github.com/anthropics/claude-plugins-official/pull/1835). DO NOT use as a general-purpose marketplace — track upstream once the PR merges and remove this fork.",
+  "name": "dougborg-pyright-lsp-test",
+  "description": "Personal fork carrying dougborg's in-flight pyright-lsp workspaceFolder fix (upstream PR https://github.com/anthropics/claude-plugins-official/pull/1835). DO NOT use as a general-purpose marketplace; switch back to the official claude-plugins-official once upstream merges.",
   "owner": {
-    "name": "Anthropic",
-    "email": "support@anthropic.com"
+    "name": "Doug Borg",
+    "email": "dougborg@dougborg.org"
   },
   "plugins": [
     {
